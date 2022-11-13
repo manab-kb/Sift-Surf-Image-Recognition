@@ -1,6 +1,11 @@
 # Sift-Surf-Image-Recognition
 A SIFT & SURF algorithm based image recognition tool - built via Python.
 
+# Resources
+1. [SIFT Detectors](https://www.analyticsvidhya.com/blog/2019/10/detailed-guide-powerful-sift-technique-image-matching-python/)
+2. [SURF Detectors](https://medium.com/data-breach/introduction-to-surf-speeded-up-robust-features-c7396d6e7c4e)
+3. [SIFT vs SURF](https://medium.com/@shehan.a.perera/a-comparison-of-sift-surf-and-orb-333d64bcaaea)
+
 # Contributing to Sift-Surf-Image-Recognition
 Hello and welcome! We are so glad that you are interested in contributing to Sift-Surf-Image-Recognition!
 We only have a couple of rules and we hope you enjoy the process :)
