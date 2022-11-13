@@ -34,7 +34,7 @@ def sift_detector(new_image, image_template):
 
 
 #Creating a list of refference images
-image_template = [cv2.imread('Face_Testing.jpg', 0)]
+image_template = [cv2.imread('./Images/Face_Testing.jpg', 0)]
 
 
 def live_feed():
@@ -81,4 +81,3 @@ def live_feed():
 
     cap.release()
     cv2.destroyAllWindows()
-    
