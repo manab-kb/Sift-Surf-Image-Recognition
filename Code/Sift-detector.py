@@ -81,3 +81,4 @@ def live_feed():
 
     cap.release()
     cv2.destroyAllWindows()
+    
