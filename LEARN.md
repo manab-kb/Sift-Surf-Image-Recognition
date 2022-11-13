@@ -6,6 +6,14 @@ A SIFT & SURF algorithm based image recognition tool - built via Python.
 2. [SURF Detectors](https://medium.com/data-breach/introduction-to-surf-speeded-up-robust-features-c7396d6e7c4e)
 3. [SIFT vs SURF](https://medium.com/@shehan.a.perera/a-comparison-of-sift-surf-and-orb-333d64bcaaea)
 
+# Get Started
+
+![image](https://user-images.githubusercontent.com/77844663/201516075-aeb260d7-0981-4cc6-bd82-4adfcac43307.png)
+
+1. Click on **Code**.
+2. Click on **Codespaces**.
+3. Click on **Create codespace on main**.
+4. Use VsCode in your browser (configure your codespace as per your requirement)
 # Contributing to Sift-Surf-Image-Recognition
 Hello and welcome! We are so glad that you are interested in contributing to Sift-Surf-Image-Recognition!
 We only have a couple of rules and we hope you enjoy the process :)
