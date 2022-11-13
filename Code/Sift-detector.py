@@ -34,7 +34,7 @@ def sift_detector(new_image, image_template):
 
 
 #Creating a list of refference images
-image_template = [cv2.imread('./Images/Face_Testing.jpg', 0)]
+image_template = [cv2.imread('./Images/Face_Testing.jpg', 0)] #To recognize multiple images, add more images in this list
 
 
 def live_feed():

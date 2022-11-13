@@ -4,6 +4,8 @@ import numpy as np
 
 def surf_detector(test_image):
     image1 = cv2.imread('./Images/Face_Testing.jpg')
+    # To recognize multiple images, create a list of images here
+    
     image1 = cv2.cvtColor(image1, cv2.COLOR_BGR2RGB)
 
     # Convert the image to gray scale
